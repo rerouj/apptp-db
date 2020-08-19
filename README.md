@@ -1,3 +1,1 @@
-# H1
-
-Projet "tpviz" : base de données
+# Projet "tpviz" : base de données
