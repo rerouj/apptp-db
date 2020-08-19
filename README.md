@@ -12,9 +12,13 @@ l'identifiant de l'émission *Temps Présent* est le 103. J'ai créé une librai
 
 A l'origine la base de données a été créée sur un système Mongodb shell version v4.2.3. Pour installer cette db, il faut :
 
-1. Télécharger le dossier Github
+1. Télécharger et ouvrir le fichier apptp-db.zip dans un dossier local
 2. Installer Mongodb shell localement
-3. Mobiliser la fonctionalité mongoimport (en ligne de commande et en dehors du shell mongodb). documentation : https://docs.mongodb.com/manual/reference/program/mongoimport/
+3. Créer une db vide intitulée *apptp-db* dans Mongodb avec la commande *use* : 
+```javascript
+use apptp-db
+```
+3. Mobiliser la fonctionalité mongorestore (en ligne de commande et en dehors du shell mongodb) pour *dumper* les collections dans la db. documentation : https://docs.mongodb.com/database-tools/mongorestore/#bin.mongorestore
 
 ## Qui ?
 
