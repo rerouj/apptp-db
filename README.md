@@ -20,7 +20,11 @@ A l'origine la base de données a été créée sur un système Mongodb shell ve
 ```javascript
 use apptp-db
 ```
-3. Mobiliser la fonctionalité mongorestore (en ligne de commande et en dehors du shell mongodb) pour *dumper* les collections dans la db. documentation : https://docs.mongodb.com/database-tools/mongorestore/#bin.mongorestore
+3. Mobiliser la fonctionalité mongorestore (en ligne de commande et en dehors du shell mongodb) pour *dumper* les collections dans la db. documentation : https://docs.mongodb.com/database-tools/mongorestore/#bin.mongorestore. La commande est simple :
+
+```javascript
+dump mon_dossier/le_dump/
+```
 
 ## Qui ?
 
