@@ -1,4 +1,4 @@
-# Projet **tpviz** : base de données
+# Projet *tpviz* : base de données
 
 Dans ce dossier se trouve la base de données qui a servi dans le cadre du travail de mémoire **La couverture géographique des reportages de Temps Présent : apport des archives numériques et des visualisations de données à une histoire des magazines de grands reportages**. Ce projet porte le nom de code *tpviz*.
 
