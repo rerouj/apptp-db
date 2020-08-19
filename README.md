@@ -8,6 +8,8 @@ L'obtention du dataset d'origine est possible via l'interface https://developer.
 
 l'identifiant de l'émission *Temps Présent* est le 103. J'ai créé une librairie Python qui permet de faire facilement des requêtes sur cette interface : https://github.com/rerouj/ssr_rts_api
 
+**L'installation de la db est indispensable pour faire tourner l'api et les visualisations de données qui se trouvent dans le dossier tp-viz**
+
 ## Comment ?
 
 A l'origine la base de données a été créée sur un système Mongodb shell version v4.2.3. Pour installer cette db, il faut :
